@@ -12,9 +12,16 @@ I am a 4th-year CS PhD student at the University of Wisconsin - Madison. My rese
 
 Publication
 ======
+- **Robustly Learning Monotone Single-Index Models**
+
+  **Puqian Wang\***, Nikos Zarifis\*, Ilias Diakonikolas, Jelena Diakonikolas, [arxiv](https://arxiv.org/pdf/2508.04670?)
+
+  <p style="font-size: 0.7em; margin-top: -1.5em;">(* Equal Contribution)</p>
+
+
 - **Robustly Learning Monotone Generalized Linear Models via Data Augmentation**
 
-  Nikos Zarifis\*, **Puqian Wang\***, Ilias Diakonikolas, Jelena Diakonikolas, [arxiv](https://arxiv.org/abs/2502.08611)
+  Nikos Zarifis\*, **Puqian Wang\***, Ilias Diakonikolas, Jelena Diakonikolas, *COLT 2025* [arxiv](https://arxiv.org/abs/2502.08611)
 
   <p style="font-size: 0.7em; margin-top: -1.5em;">(* Equal Contribution)</p>
 
@@ -51,6 +58,10 @@ Talks
 - *Sample and Computationally Efficient Robust Learning of Gaussian Single-Index Models*, IFDS 2024 Meeting, October 2024, UW Madison
 - *Robustly Learning Single-Index Models via Alignment Sharpness*, 60th Annual Allerton Conference on Communication, Control, and Computing, September 2024, Urbana-Champaign, IL, US
 - *Robustly Learning Single-Index Models via Alignment Sharpness*, International Symposium on Mathematical Programming, July 2024, Montreal, Q.C., Cananda
+
+Experience
+====
+Research Assistant Intern at Microsoft Research, Cambridge, UK, Summer 2025.
 
 Teaching
 ====
