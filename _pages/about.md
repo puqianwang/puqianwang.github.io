@@ -14,7 +14,7 @@ Publication
 ======
 - **Robustly Learning Monotone Single-Index Models**
 
-  **Puqian Wang\***, Nikos Zarifis\*, Ilias Diakonikolas, Jelena Diakonikolas, [arxiv](https://arxiv.org/pdf/2508.04670?)
+  **Puqian Wang\***, Nikos Zarifis\*, Ilias Diakonikolas, Jelena Diakonikolas, *NeurIPS 2025* [arxiv](https://arxiv.org/pdf/2508.04670?)
 
   <p style="font-size: 0.7em; margin-top: -1.5em;">(* Equal Contribution)</p>
 
