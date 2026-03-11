@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th-year CS PhD student at the University of Wisconsin - Madison. My research interests primarily revolve around the intersection of optimization and computational learning theory. I am very fortunate to be advised by Prof. [Jelena Diakonikolas](http://www.jelena-diakonikolas.com). Additionally, I have the privilege of collaborating with Prof. [Ilias Diakonikolas](http://www.iliasdiakonikolas.org) and other amazing collaborators. Prior to joining Madison, I completed my B.S. degree in Mathematics at Shandong University. 
+I am a fifth-year PhD student in Computer Sciences at the University of Wisconsin–Madison. I am broadly interested in optimization and computational learning theory, with a primary focus on understanding the hidden structures in foundational machine learning models that make gradient-descent-like algorithms effective. I am very fortunate to be advised by Prof. [Jelena Diakonikolas](http://www.jelena-diakonikolas.com). I have also had the pleasure of collaborating with Prof. [Ilias Diakonikolas](http://www.iliasdiakonikolas.org) and many other amazing collaborators. Before coming to Madison, I earned my B.S. in Mathematics from Shandong University.
 
 Publication
 ======
@@ -50,7 +50,7 @@ Publication
 
 - **Robustly Learning a Single Neuron via Sharpness**
   
-  **Puqian Wang\*** , Nikos Zarifis\* , Ilias Diakonikolas, Jelena Diakonikolas, *ICML, 2023, Short Presentation*, [arxiv](https://arxiv.org/abs/2306.07892)
+  **Puqian Wang\*** , Nikos Zarifis\* , Ilias Diakonikolas, Jelena Diakonikolas, *ICML, 2023, Oral Presentation*, [arxiv](https://arxiv.org/abs/2306.07892)
 
   <p style="font-size: 0.7em; margin-top: -1.5em;">(* Equal Contribution)</p>
 
