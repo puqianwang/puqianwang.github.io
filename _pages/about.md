@@ -12,6 +12,11 @@ I am a 4th-year CS PhD student at the University of Wisconsin - Madison. My rese
 
 Publication
 ======
+
+- **ARO: A New Lens On Matrix Optimization For Large Models**
+
+  Wenbo Gong, Javier Zazo, Qijun Luo, **Puqian Wang**, James Hensman, Chao Ma, *In submission*
+  
 - **Robustly Learning Monotone Single-Index Models**
 
   **Puqian Wang\***, Nikos Zarifis\*, Ilias Diakonikolas, Jelena Diakonikolas, *NeurIPS 2025* [arxiv](https://arxiv.org/pdf/2508.04670?)
@@ -61,7 +66,7 @@ Talks
 
 Experience
 ====
-Research Assistant Intern at Microsoft Research, Cambridge, UK, Summer 2025.
+Research Intern at Microsoft Research, Cambridge, UK, Summer 2025.
 
 Teaching
 ====
