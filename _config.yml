@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Puqian Wang"
-  avatar           : "my_picture.JPG"
+  avatar           : "compressed_image.jpeg"
   bio              : "PhD student at University of Wisconsin, Madison"
   location         : "Madison, WI, US"
   employer         :
