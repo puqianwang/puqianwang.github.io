@@ -10,7 +10,7 @@ redirect_from:
 
 I am a fifth-year PhD student in Computer Sciences at the University of Wisconsin–Madison. I am broadly interested in optimization and computational learning theory, with a primary focus on understanding the hidden structures in foundational machine learning models that make gradient-descent-like algorithms effective. I am very fortunate to be advised by Prof. [Jelena Diakonikolas](http://www.jelena-diakonikolas.com). I have also had the pleasure of collaborating with Prof. [Ilias Diakonikolas](http://www.iliasdiakonikolas.org) and many other amazing collaborators. Before coming to Madison, I earned my B.S. in Mathematics from Shandong University.
 
-Publication
+Publications
 ======
 
 - **ARO: A New Lens On Matrix Optimization For Large Models**
