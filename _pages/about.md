@@ -60,6 +60,7 @@ Publications
 
 Talks
 ====
+- *Robustly Learning Single-Index Models*, Informs Annual Meeting, October 2025, Atlanta, GA, US
 - *Sample and Computationally Efficient Robust Learning of Gaussian Single-Index Models*, IFDS 2024 Meeting, October 2024, UW Madison
 - *Robustly Learning Single-Index Models via Alignment Sharpness*, 60th Annual Allerton Conference on Communication, Control, and Computing, September 2024, Urbana-Champaign, IL, US
 - *Robustly Learning Single-Index Models via Alignment Sharpness*, International Symposium on Mathematical Programming, July 2024, Montreal, Q.C., Cananda
