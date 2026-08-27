@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Puqian Wang"
 title_separator          : "-"
 name                     : &name "Puqian Wang"
-description              : &description "PhD Student at University of Wisconsin, Madison"
+description              : &description "PhD candidate in Computer Sciences at the University of Wisconsin-Madison"
 url                      : "https://puqianwang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : puqianwang/puqianwang.github.io
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Puqian Wang"
   avatar           : "compressed_image.jpeg"
-  bio              : "PhD student at University of Wisconsin, Madison"
+  bio              : "PhD candidate in Computer Sciences"
   location         : "Madison, WI, US"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
