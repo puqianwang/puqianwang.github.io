@@ -1,0 +1,185 @@
+/* Modern, compact personal-site refinements */
+
+body {
+  background: $body-color;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+a {
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.14em;
+}
+
+.masthead {
+  background: rgba($body-color, 0.96);
+  border-bottom-color: #e5e7eb;
+
+  &__inner-wrap {
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
+  }
+}
+
+.greedy-nav {
+  background: transparent;
+
+  a {
+    color: #364152;
+    font-size: 0.94rem;
+    font-weight: 500;
+  }
+
+  .visible-links li:first-child a {
+    color: #1f2937;
+    font-weight: 650;
+    letter-spacing: -0.02em;
+  }
+}
+
+#main {
+  margin-top: 2.75rem;
+}
+
+.page__content {
+  max-width: 46rem;
+
+  h1 {
+    margin-bottom: 1.15rem;
+    font-size: 1.8rem;
+    letter-spacing: -0.035em;
+  }
+
+  h2 {
+    margin-top: 3.25rem;
+    padding-bottom: 0.45rem;
+    color: #1f2937;
+    font-size: 1.3rem;
+    letter-spacing: -0.02em;
+  }
+}
+
+.sidebar {
+  .author__avatar img {
+    max-width: 150px;
+    padding: 4px;
+    border-color: #e5e7eb;
+  }
+
+  .author__name {
+    font-size: 1.05rem;
+    font-weight: 650;
+  }
+
+  .author__bio {
+    color: #5f6b7a;
+    font-size: 0.78rem;
+    line-height: 1.45;
+  }
+
+  .author__urls {
+    margin-top: 0.75rem;
+
+    a {
+      color: #4b5563;
+      font-size: 0.82rem;
+
+      &:hover {
+        color: $link-color;
+      }
+    }
+  }
+
+  .author__cv {
+    margin-top: 0.85rem;
+
+    a {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.2rem;
+      padding: 0.4rem 0.65rem;
+      color: #fff;
+      font-size: 0.76rem;
+      font-weight: 600;
+      text-decoration: none;
+      background: #1f4f64;
+      border-radius: 999px;
+
+      &:hover {
+        color: #fff;
+        background: #163c4d;
+        text-decoration: none;
+      }
+    }
+  }
+}
+
+.publication-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  > li {
+    margin: 0;
+    padding: 1.1rem 0 1.2rem;
+    border-bottom: 1px solid #e7eaee;
+  }
+
+  p {
+    margin: 0;
+  }
+}
+
+.publication__title {
+  color: #1f2937;
+  font-size: 1rem;
+  font-weight: 650;
+  line-height: 1.4;
+}
+
+.publication__authors {
+  margin-top: 0.35rem !important;
+  color: #4b5563;
+  font-size: 0.91rem;
+  line-height: 1.55;
+}
+
+.publication__me {
+  color: #174b62;
+  font-weight: 650;
+}
+
+.publication__venue {
+  margin-top: 0.25rem !important;
+  color: #697586;
+  font-size: 0.85rem;
+}
+
+.publication__venue a {
+  margin-left: 0.25rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.publication__note {
+  margin-top: 0.9rem !important;
+  color: #697586;
+  font-size: 0.8rem;
+}
+
+.compact-list {
+  margin-top: 0;
+  padding-left: 1.15rem;
+
+  li {
+    margin-bottom: 0.6rem;
+    padding-left: 0.15rem;
+  }
+}
+
+.page__footer {
+  margin-top: 4rem;
+  color: #697586;
+  background: transparent;
+  border-top: 1px solid #e5e7eb;
+}
