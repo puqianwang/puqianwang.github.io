@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<p class="job-market">I will be on the job market starting in 2027.</p>
 
 I am a PhD candidate in Computer Sciences at the University of Wisconsin-Madison. I work on optimization and computational learning theory, with a focus on the structural properties that make gradient-descent-like algorithms effective in foundational machine learning models. I am advised by Prof. [Jelena Diakonikolas](http://www.jelena-diakonikolas.com) and have had the pleasure of collaborating with Prof. [Ilias Diakonikolas](http://www.iliasdiakonikolas.org) and many other wonderful researchers. Before coming to Madison, I earned my B.S. in Mathematics from Shandong University.
+
+
+<p class="job-market">I am on the job market for fall 2027 -- seeking postdoctoral and research positions in academia or industry!</p>
 
 Publications
 ======
@@ -69,6 +71,7 @@ Talks
 ====
 
 <ul class="compact-list">
+  <li><em>When Is Nonconvexity Not a Problem -- Benign Landscapes and Hidden Curvature in Learning on the Sphere</em>, MOPTA, August 2026, Lehigh University/li>
   <li><em>Robustly Learning Single-Index Models</em>, INFORMS Annual Meeting, October 2025, Atlanta, GA</li>
   <li><em>Sample and Computationally Efficient Robust Learning of Gaussian Single-Index Models</em>, IFDS Forum, October 2024, UW-Madison</li>
   <li><em>Robustly Learning a Single Neuron via Alignment Sharpness</em>, 60th Allerton Conference, September 2024, Urbana-Champaign, IL</li>
