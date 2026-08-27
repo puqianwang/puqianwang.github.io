@@ -80,6 +80,8 @@ analytics:
 
 
 # Site Author
+show_cv: false # Change to false to hide the CV link in the left sidebar.
+
 author:
   name             : "Puqian Wang"
   avatar           : "compressed_image.jpeg"
