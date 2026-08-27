@@ -46,22 +46,22 @@ Publications
   </li>
   <li>
     <p class="publication__title">Near-Optimal Bounds for Learning Gaussian Halfspaces with Random Classification Noise</p>
-    <p class="publication__authors">Ilias Diakonikolas, Jelena Diakonikolas, Daniel Kane, <strong class="publication__me">Puqian Wang</strong>, Nikos Zarifis</p>
+    <p class="publication__authors">Ilias Diakonikolas, Jelena Diakonikolas, Daniel Kane, <strong class="publication__me">Puqian Wang</strong>, Nikos Zarifis <span class="publication__alphabetic">(alphabetical)</span></p>
     <p class="publication__venue"><em>NeurIPS 2023</em> <a href="https://arxiv.org/abs/2307.08438">arXiv</a></p>
   </li>
   <li>
     <p class="publication__title">Information-Computation Tradeoffs for Learning Margin Halfspaces with Random Classification Noise</p>
-    <p class="publication__authors">Ilias Diakonikolas, Jelena Diakonikolas, <strong class="publication__me">Puqian Wang</strong>, Nikos Zarifis</p>
+    <p class="publication__authors">Ilias Diakonikolas, Jelena Diakonikolas, <strong class="publication__me">Puqian Wang</strong>, Nikos Zarifis  <span class="publication__alphabetic">(alphabetical)</span></p>
     <p class="publication__venue"><em>COLT 2023</em> <a href="https://arxiv.org/abs/2306.16352">arXiv</a></p>
   </li>
   <li>
     <p class="publication__title">Robustly Learning a Single Neuron via Sharpness</p>
     <p class="publication__authors"><strong class="publication__me">Puqian Wang</strong><sup>*</sup>, Nikos Zarifis<sup>*</sup>, Ilias Diakonikolas, Jelena Diakonikolas</p>
-    <p class="publication__venue"><em>ICML 2023, Oral Presentation</em> <a href="https://arxiv.org/abs/2306.07892">arXiv</a></p>
+    <p class="publication__venue"><em>ICML 2023</em>, <span class="publication__oral">Oral Presentation</span> <a href="https://arxiv.org/abs/2306.07892">arXiv</a></p>
   </li>
   <li>
     <p class="publication__title">Potential Function-based Framework for Making the Gradients Small in Convex and Min-Max Optimization</p>
-    <p class="publication__authors">Jelena Diakonikolas, <strong class="publication__me">Puqian Wang</strong></p>
+    <p class="publication__authors">Jelena Diakonikolas, <strong class="publication__me">Puqian Wang</strong>  <span class="publication__alphabetic">(alphabetical)</span></p>
     <p class="publication__venue"><em>SIAM Journal on Optimization 2022</em> <a href="https://arxiv.org/abs/2101.12101">arXiv</a></p>
   </li>
 </ol>
