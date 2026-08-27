@@ -59,6 +59,14 @@ a {
   }
 }
 
+.job-market {
+  margin: 0 0 1.45rem !important;
+  color: #b42318;
+  font-size: 0.92rem;
+  font-weight: 700;
+  line-height: 1.45;
+}
+
 .sidebar {
   .author__avatar img {
     max-width: 150px;
@@ -121,7 +129,7 @@ a {
 
   > li {
     margin: 0;
-    padding: 1.1rem 0 1.2rem;
+    padding: 0.82rem 0 0.86rem;
     border-bottom: 1px solid #e7eaee;
   }
 
@@ -134,25 +142,26 @@ a {
   color: #1f2937;
   font-size: 1rem;
   font-weight: 650;
-  line-height: 1.4;
+  line-height: 1.32;
 }
 
 .publication__authors {
-  margin-top: 0.35rem !important;
+  margin-top: 0.14rem !important;
   color: #4b5563;
   font-size: 0.91rem;
-  line-height: 1.55;
+  line-height: 1.46;
 }
 
 .publication__me {
   color: #174b62;
-  font-weight: 650;
+  font-weight: 700;
 }
 
 .publication__venue {
-  margin-top: 0.25rem !important;
+  margin-top: 0.08rem !important;
   color: #697586;
   font-size: 0.85rem;
+  line-height: 1.4;
 }
 
 .publication__venue a {
