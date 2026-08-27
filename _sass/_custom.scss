@@ -164,10 +164,21 @@ a {
   line-height: 1.4;
 }
 
+.publication__alphabetic {
+  color: #697586;
+  font-size: 0.86em;
+  font-style: italic;
+}
+
 .publication__venue a {
   margin-left: 0.25rem;
   font-weight: 600;
   text-decoration: none;
+}
+
+.publication__oral {
+  color: #b42318;
+  font-weight: 700;
 }
 
 .publication__note {
