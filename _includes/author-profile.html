@@ -67,7 +67,6 @@
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
       {% endif %}
-      <li class="author__cv"><a href="{{ base_path }}/files/CV_June_2026.pdf" target="_blank" rel="noopener"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> CV</a></li>
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
       {% endif %}
@@ -118,6 +117,7 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
+      <li class="author__cv"><a href="{{ base_path }}/files/CV_June_2026.pdf" target="_blank" rel="noopener"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> CV</a></li>
 {% endif %}
     </ul>
   </div>
