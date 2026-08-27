@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+I am a fifth-year PhD candidate in Computer Sciences at the University of Wisconsin–Madison. My research lies at the intersection of optimization and machine learning theory. I study the geometric and statistical structures that make challenging learning and optimization problems efficiently solvable, and design algorithms that exploit these structures.
+I am very fortunate to be advised by Prof. [Jelena Diakonikolas](http://www.jelena-diakonikolas.com) and to have collaborated with Prof. [Ilias Diakonikolas](http://www.iliasdiakonikolas.org) and many other wonderful researchers. Before coming to Madison, I earned my B.S. in Mathematics from Shandong University.
 
-I am a PhD candidate in Computer Sciences at the University of Wisconsin-Madison. I work on optimization and computational learning theory, with a focus on the structural properties that make gradient-descent-like algorithms effective in foundational machine learning models. I am advised by Prof. [Jelena Diakonikolas](http://www.jelena-diakonikolas.com) and have had the pleasure of collaborating with Prof. [Ilias Diakonikolas](http://www.iliasdiakonikolas.org) and many other wonderful researchers. Before coming to Madison, I earned my B.S. in Mathematics from Shandong University.
 
 
 <p class="job-market">I am on the job market for fall 2027 -- seeking postdoctoral and research positions in academia or industry!</p>
