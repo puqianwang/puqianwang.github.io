@@ -71,7 +71,7 @@ Talks
 ====
 
 <ul class="compact-list">
-  <li><em>When Is Nonconvexity Not a Problem -- Benign Landscapes and Hidden Curvature in Learning on the Sphere</em>, MOPTA, August 2026, Lehigh University/li>
+  <li><em>When Is Nonconvexity Not a Problem -- Benign Landscapes and Hidden Curvature in Learning on the Sphere</em>, MOPTA, August 2026, Lehigh University</li>
   <li><em>Robustly Learning Single-Index Models</em>, INFORMS Annual Meeting, October 2025, Atlanta, GA</li>
   <li><em>Sample and Computationally Efficient Robust Learning of Gaussian Single-Index Models</em>, IFDS Forum, October 2024, UW-Madison</li>
   <li><em>Robustly Learning a Single Neuron via Alignment Sharpness</em>, 60th Allerton Conference, September 2024, Urbana-Champaign, IL</li>
