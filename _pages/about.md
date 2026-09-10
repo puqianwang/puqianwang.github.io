@@ -20,9 +20,14 @@ Publications
 
 <ol class="publication-list">
   <li>
+    <p class="publication__title">Efficient Optimization on the Euclidean Sphere: Riemannian Gradient Alignment as a Unifying Principle</p>
+    <p class="publication__authors"><strong class="publication__me">Puqian Wang</strong>, Nikos Zarifis, Jelena Diakonikolas</p>
+    <p class="publication__venue"><em>In submission</em> &middot; 2026</em> <a href="https://arxiv.org/abs/2609.07723">arXiv</a></p>
+  </li>
+  <li>
     <p class="publication__title">ARO: A New Lens on Matrix Optimization for Large Models</p>
     <p class="publication__authors">Wenbo Gong, Javier Zazo, Qijun Luo, <strong class="publication__me">Puqian Wang</strong>, James Hensman, Chao Ma</p>
-    <p class="publication__venue"><em>In submission</em> &middot; 2026</p>
+    <p class="publication__venue"><em>In submission</em> &middot; 2026</em> <a href="https://arxiv.org/abs/2602.09006">arXiv</a></p>
   </li>
   <li>
     <p class="publication__title">Robustly Learning Monotone Single-Index Models</p>
