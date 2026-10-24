@@ -20,6 +20,11 @@ Publications
 
 <ol class="publication-list">
   <li>
+    <p class="publication__title">Learning Positive Combinations of ReLUs in Fully Polynomial Time</p>
+    <p class="publication__authors">Ilias Diakonikolas, Jelena Diakonikolas, <strong class="publication__me">Puqian Wang</strong>, Nikos Zarifis<span class="publication__alphabetic">(alphabetical)</span></p>
+    <p class="publication__venue"><em>In submission &middot; 2026</em> <a href="https://github.com/nikoszarifis/Learning-Sum-ReLUs-Poly/blob/main/Learning-Sum-of-ReLUs-Polynomial-Time.pdf">PDF</a></p>
+  </li>
+  <li>
     <p class="publication__title">Efficient Optimization on the Euclidean Sphere: Riemannian Gradient Alignment as a Unifying Principle</p>
     <p class="publication__authors"><strong class="publication__me">Puqian Wang</strong>, Nikos Zarifis, Jelena Diakonikolas</p>
     <p class="publication__venue"><em>In submission &middot; 2026</em> <a href="https://arxiv.org/abs/2609.07723">arXiv</a></p>
